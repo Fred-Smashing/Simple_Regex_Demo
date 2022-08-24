@@ -29,3 +29,7 @@ This is a demo project inteded to demonstrate how regex can be used inside of .N
   
 - Evil_Password
   - How allowing user input when regex is involved can be a bad idea (and cause a program to lock up for an exponential amount of time)
+
+---
+
+Utilities just has a method that is used to load a file accros several of the projects
